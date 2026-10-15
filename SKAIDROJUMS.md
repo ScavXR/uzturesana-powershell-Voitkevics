@@ -64,3 +64,13 @@ if ($null -eq $servisi) — Pārbauda, vai šādu servisu vispār nav; ja nav, i
     Export-Csv — Saglabā datus CSV failā.
 
    Import-Csv ... Count — Saskaita, cik rindu ir failā, un izvada to izvade.txt pirmajā rindā.
+
+7. uzdevums: Diska vieta un brīdinājums
+
+$robezaGB = 50 — Uzstāda robežu (limitus), pie kuras izvadīt brīdinājumu.
+
+Win32_LogicalDisk -Filter "DriveType=3" — Paņem cietos diskus (lokālos diskus).   
+
+Datus pārrēķina no baitiem uz gigabaitos, izdalot ar 1GB.  
+
+if nosacījums salīdzina brīvo vietu ar izvēlēto robežu un uzrāda brīdinājumu, ja vietas trūkst.      
