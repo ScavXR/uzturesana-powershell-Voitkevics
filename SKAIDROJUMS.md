@@ -44,4 +44,11 @@ Get-Service | Where-Object — Atlasa tikai tos servisus, kam palaišanas veids 
 
 if ($null -eq $servisi) — Pārbauda, vai šādu servisu vispār nav; ja nav, izvada skaitli 0, nevis tukšumu.   
 
--WhatIf — Reāli neko nepalaiž, tikai parāda simulāciju, ko tas darītu. 
+-WhatIf — Reāli neko nepalaiž, tikai parāda simulāciju, ko tas darītu.
+
+5. uzdevums: Kļūdas sistēmas žurnālā
+   (Get-Date).AddHours(-48) — Paņem pašreizējo laiku un atņem 48 stundas (atrod laika filtru caur Get-Member metodēm).
+
+   Get-WinEvent — Nolasa notikumus no sistēmas žurnāla.
+
+   Group-Object un Sort-Object — Sagrupē kļūdas pēc nosaukuma un atrod to, kura atkārtojusies visbiežāk.   
