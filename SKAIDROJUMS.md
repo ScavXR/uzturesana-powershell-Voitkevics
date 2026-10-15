@@ -51,4 +51,16 @@ if ($null -eq $servisi) — Pārbauda, vai šādu servisu vispār nav; ja nav, i
 
    Get-WinEvent — Nolasa notikumus no sistēmas žurnāla.
 
-   Group-Object un Sort-Object — Sagrupē kļūdas pēc nosaukuma un atrod to, kura atkārtojusies visbiežāk.   
+   Group-Object un Sort-Object — Sagrupē kļūdas pēc nosaukuma un atrod to, kura atkārtojusies visbiežāk.
+
+6. uzdevums: Draiveri, kas nav Microsoft
+
+   NVIDIA GeForce RTX 5080,"NVIDIA","32.0.16.1742" - Tas ir GPU draiveris
+
+   Win32_PnPSignedDriver — Iegūst datorā instalēto draiveru sarakstu.
+
+   Where-Object {$_.Manufacturer -ne 'Microsoft'} — Atstāj tikai tos draiverus, kuru ražotājs nav Microsoft.
+
+    Export-Csv — Saglabā datus CSV failā.
+
+   Import-Csv ... Count — Saskaita, cik rindu ir failā, un izvada to izvade.txt pirmajā rindā.
