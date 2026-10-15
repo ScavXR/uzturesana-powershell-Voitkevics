@@ -22,4 +22,18 @@ Select-Object -Last 10 — Paņem pēdējos 10 procesus (tie ir tie, kas rij vis
 
 Select-Object -Property Name, Id, ... — Izvelk tikai procesa vārdu, ID un izveido jaunu kolonnā ar nosaukumu AtmiņaMB.
 
-[math]::Round(..., 1) — Noapaļo skaitli līdz vienai zīmei aiz komata.  
+[math]::Round(..., 1) — Noapaļo skaitli līdz vienai zīmei aiz komata.
+
+3. uzdevums: Servisu skaitīšana
+
+Sākumā izveidojam divus nulles mainīgos skaitīšanai.
+
+Get-Service — Iegūst visus Windows servisus.
+
+foreach ($s in $servisi) — Cikls, kas iet cauri katram servisam pa vienam. 
+
+if ($s.Status -eq 'Running') — Pārbauda, vai serviss strādā, un pieskaita viennieku.   
+
+elseif — Pārbauda, vai ir apturēts.   
+
+$summa = $darbojas + $aptureeti — Saskaita abus skaitļus kopā. 
