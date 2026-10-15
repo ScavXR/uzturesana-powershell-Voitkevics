@@ -73,4 +73,10 @@ Win32_LogicalDisk -Filter "DriveType=3" — Paņem cietos diskus (lokālos disku
 
 Datus pārrēķina no baitiem uz gigabaitos, izdalot ar 1GB.  
 
-if nosacījums salīdzina brīvo vietu ar izvēlēto robežu un uzrāda brīdinājumu, ja vietas trūkst.      
+if nosacījums salīdzina brīvo vietu ar izvēlēto robežu un uzrāda brīdinājumu, ja vietas trūkst. 
+
+8. uzdevums: Divi ceļi, viens rezultāts
+
+Measure-Command — Izmēra, cik milisekundes aizņem konkrētās komandas izpilde.   
+
+Salīdzina ātrumu starp vienkāršu servisa komandu un CIM / WMI vaicājumu
