@@ -1,4 +1,5 @@
 1. uzdevums: Sistēmas apraksts
+
 $dators = $env:COMPUTERNAME — Saglabā mainīgajā datora sistēmas nosaukumu.
 
    Get-CimInstance -ClassName Win32_OperatingSystem — Pajautā datoram informāciju par pašu operētājsistēmu.
