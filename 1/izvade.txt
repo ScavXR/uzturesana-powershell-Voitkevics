@@ -1,0 +1,5 @@
+Datora nosaukums: DESKTOP-6573B5G
+Operētājsistēma: Microsoft Windows 10 Home (būvējums: 19045)
+PowerShell versija: 5.1.19041.6456
+Pašreizējais datums un laiks: 10/15/2026 17:12:42
+Aktīvo procesu skaits: 341

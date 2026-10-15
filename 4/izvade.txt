@@ -1,0 +1,76 @@
+Start-Service : Failed to start service 'ASUS Update Service (asus) (asus)'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : StartServiceFailed,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Failed to start service 'AsusROGLSLService Download ROGLSLoader (AsusROGLSLService)'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : StartServiceFailed,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Failed to start service 'AsusUpdateCheck (AsusUpdateCheck)'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : StartServiceFailed,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Service 'Intel(R) Content Protection HDCP Service (cplspcon)' cannot be started due to the following error: Cannot start service cplspcon on computer '.'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Failed to start service 'Microsoft Edge Update Service (edgeupdate) (edgeupdate)'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : StartServiceFailed,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Service 'GoogleUpdater InternalService 125.0.6407.2 (GoogleUpdaterInternalService125.0.6407.2) (GoogleUpdaterInternalService125.0.6407.2)' cannot be started due to the following error: Cannot start service GoogleUpdaterInternalService125.0.6407.2 on computer '.'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Service 'GoogleUpdater Service 125.0.6407.2 (GoogleUpdaterService125.0.6407.2) (GoogleUpdaterService125.0.6407.2)' cannot be started due to the following error: Cannot start service GoogleUpdaterService125.0.6407.2 on computer '.'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Service 'Pakalpojums Google atjauninājums (gupdate) (gupdate)' cannot be started due to the following error: Cannot start service gupdate on computer '.'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Failed to start service 'Intel(R) HD Graphics Control Panel Service (igfxCUIService2.0.0.0)'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : StartServiceFailed,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Service 'Intel(R) Platform License Manager Service (Intel(R) Platform License Manager Service)' cannot be started due to the following error: Cannot start service Intel(R) Platform License Manager Service on computer '.'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+Start-Service : Service 'Intel(R) TPM Provisioning Service (Intel(R) TPM Provisioning Service)' cannot be started due to the following error: Cannot start service Intel(R) TPM Provisioning Service on computer '.'.
+At line:6 char:9
++         Start-Service -InputObject $s
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service], ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand

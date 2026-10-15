@@ -1,0 +1,3006 @@
+Ja skriptu palaiž bez administratora tiesībām, sistēma daudziem sistēmas procesiem atbildēs ar piekļuves kļūdu (Access Denied) vai tukšumu, jo parasto lietotāju tiesības neļauj nolasīt citu lietotāju un sistēmas procesu īpašniekus.
+
+
+
+
+
+
+
+
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+lsass.exe                               1368 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1496 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+fontdrvhost.exe                         1524 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1592 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1648 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+winlogon.exe                            1708 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+fontdrvhost.exe                         1764 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1856 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1864 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1872 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1880 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2044 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1028 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1108 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1116 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1188 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+dwm.exe                                 1216 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2056 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2148 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2184 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2296 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2304 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NVDisplay.Container.exe                 2432 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+PresentationFontCache.exe               2484 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2508 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2552 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2640 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2648 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+AsusCertService.exe                     2672 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2764 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2772 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2892 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2900 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Memory Compression                      2940 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2960 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3004 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2712 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3112 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3192 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NVDisplay.Container.exe                 3412 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3696 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3784 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3808 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3816 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             3952 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4020 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+wlanext.exe                             4084 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             3080 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+spoolsv.exe                             2180 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4156 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4196 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Intel_PIE_Service.exe                   4328 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+mDNSResponder.exe                       4536 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4596 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ArmouryCrate.Service.exe                4640 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+DCAgent.exe                             4656 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4692 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4708 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+atkexComSvc.exe                         4716 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Everything.exe                          4724 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+escsvc64.exe                            4744 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+DSAUpdateService.exe                    4756 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+DSAService.exe                          4764 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+AsusFanControlService.exe               4772 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+EpSecuritySupport.exe                   4828 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+GameSDK.exe                             4840 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+GameInputRedistService.exe              4872 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+CCleaner_service.exe                    4880 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4908 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4916 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+OneApp.IGCC.WinService.exe              4924 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+OfficeClickToRun.exe                    4936 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+HapticService.exe                       4948 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+jhi_service.exe                         4956 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+LMIGuardianSvc.exe                      4980 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NahimicService.exe                      4992 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+OVRServiceLauncher.exe                  5008 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ThunderboltService.exe                  5016 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5024 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+pservice.exe                            5032 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5040 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+lghub_updater.exe                       5068 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+nvcontainer.exe                         5076 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ROGLiveService.exe                      5084 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5092 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzSDKService.exe                        5100 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5108 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerExperienceService.exe              5116 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RstMwService.exe                        4184 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzDiagnosticService.exe                 4420 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+TbtP2pShortcutService.exe               5128 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+TunnelBear.Maintenance.exe              5136 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RtkAudUService64.exe                    5144 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzSDKServer.exe                         5156 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+LightingService.exe                     5172 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+LMS.exe                                 5180 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+MpDefenderCoreService.exe               5188 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+GameManagerService3.exe                 5212 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5672 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5752 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5780 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+hamachi-2.exe                           5864 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzAppManager                            6712 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzBTLEManager                           6748 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             6772 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzDeviceManager                         6808 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             6820 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             6892 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzDeviceManagerEx                       6908 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzIoTDeviceManager                      6944 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             6956 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzSmartlightingDeviceManager            7008 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             7020 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzWDLDeviceManager                      7060 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             7100 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                             7148 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WmiPrvSE.exe                            8404 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WmiPrvSE.exe                            8412 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             8504 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+dllhost.exe                             9144 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            10024 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+gamingservices.exe                     10184 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+gamingservicesnet.exe                  10192 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SearchIndexer.exe                      10208 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WUDFHost.exe                           10604 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WUDFHost.exe                           10764 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+dasHost.exe                            11124 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            11244 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             9576 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            11120 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WMIRegistrationService.exe             10916 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+MsMpEng.exe                            11268 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            11300 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+AggregatorHost.exe                     12212 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            11288 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             1388 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            11948 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+AacKingstonDramHal_x64.exe             12732 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+GameInputRedistService.exe             12880 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerExperienceService.exe             12860 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                            12812 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+DefenderSessionHelper.exe              12956 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+OVRServer_x64.exe                      12932 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+OVRRedir.exe                           12968 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                            13036 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+sihost.exe                             12972 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            12484 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             4548 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            13052 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+DashboardNotificationManager.exe       13376 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+taskhostw.exe                          13384 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+extensionCardHal_x86.exe               13420 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+CCleaner.exe                           13444 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+AcPowerNotification.exe                13460 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+taskhostw.exe                          13476 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NoiseCancelingEngine.exe               13536 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            13676 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            13688 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+unsecapp.exe                           13752 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Aac3572MbHal_x86.exe                   13932 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+nvcontainer.exe                        14296 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+nvcontainer.exe                        14324 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+nvcontainer.exe                        13044 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+nvcontainer.exe                         9492 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            13248 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+explorer.exe                            7104 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ctfmon.exe                              6636 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             6628 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ArmouryCrate.UserSessionHelper.exe     14956 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                            14964 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            15872 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            16324 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             2392 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Aac3572DramHal_x86.exe                 15932 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RemoteDesktopCompanion.exe             16568 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            16804 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+MQRDCrashpadHandler.exe                17060 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            17992 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+nvsphelper64.exe                       16936 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NVIDIA Overlay.exe                     16576 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+AacKingstonDramHal_x86.exe             18104 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+StartMenuExperienceHost.exe            17960 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RuntimeBroker.exe                      18452 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NVIDIA Overlay.exe                     18516 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NVIDIA Overlay.exe                     18556 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NVIDIA Overlay.exe                     18700 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RuntimeBroker.exe                      19068 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NVIDIA Overlay.exe                     19848 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            19396 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ArmouryCrate.exe                       22744 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RuntimeBroker.exe                      23356 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+LockApp.exe                            22252 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RuntimeBroker.exe                      23680 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+DSATray.exe                            23956 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WhatsApp.Root.exe                      24200 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RuntimeBroker.exe                       9048 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+TextInputHost.exe                       7892 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            24300 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WpcMon.exe                             24308 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SecurityHealthSystray.exe              24600 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SecurityHealthService.exe              24640 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RtkAudUService64.exe                   24724 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+DataCollectionAgentController.exe      24792 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+EPPCCMON.EXE                           25200 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+splwow64.exe                           25224 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Everything.exe                         25368 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ArmourySocketServer.exe                25472 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steam.exe                              25484 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamwebhelper.exe                     25560 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamservice.exe                       24384 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamwebhelper.exe                     23416 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamwebhelper.exe                     15496 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Discord.exe                            16056 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamwebhelper.exe                     25024 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamwebhelper.exe                      3092 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamwebhelper.exe                     23288 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Discord.exe                            23504 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Discord.exe                            25504 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Discord.exe                            25616 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+msedgewebview2.exe                     26604 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+msedgewebview2.exe                     25756 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+msedgewebview2.exe                     26652 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+msedgewebview2.exe                     26660 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+msedgewebview2.exe                     26712 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Discord.exe                            27288 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            27576 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+msedgewebview2.exe                     27712 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+E_YATIYIE.EXE                          27780 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Discord.exe                            28316 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+wallpaper32.exe                         3128 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+audiodg.exe                             5456 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+CompPkgSrv.exe                         29160 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ArmouryHtmlDebugServer.exe             29196 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     30324 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Telegram.exe                           30832 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NhNotifSys.exe                         30868 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+nahimicNotifSys.exe                    30908 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     31180 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     31212 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     31408 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RzEngineMon.exe                        31644 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+razer_elevation_service.exe            28528 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+MiniBin.exe                            32024 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+AsusFCNotification.exe                 32200 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+cmd.exe                                32456 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                            32464 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     31352 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     31996 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+EEventManager.exe                      30652 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                      1924 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     33060 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+FireStorm.exe                          32776 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     33240 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     30796 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RazerAppEngine.exe                     33424 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            32964 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+asus_framework.exe                     34456 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+PhoneExperienceHost.exe                34684 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+asus_framework.exe                     34888 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+asus_framework.exe                     35300 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+asus_framework.exe                     35284 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ArmourySwAgent.exe                     35204 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+asus_framework.exe                     35736 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+asus_framework.exe                     35756 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+asus_framework.exe                     35640 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+Aac3572MbHal_x86.exe                   36216 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+WmiApSrv.exe                           34116 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ApplicationFrameHost.exe                1724 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             5416 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+UserOOBEBroker.exe                      5340 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+dllhost.exe                            11116 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            12692 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RuntimeBroker.exe                      35620 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+lghub_system_tray.exe                   5408 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+lghub_agent.exe                        33776 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+unsecapp.exe                           28156 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            12652 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             6500 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+MusNotifyIcon.exe                      21980 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+OneDrive.Sync.Service.exe              12008 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             14268 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             17492 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             19512 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             23984 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             22824 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             14320 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             12552 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+ShellExperienceHost.exe                24588 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+RuntimeBroker.exe                      30068 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             22124 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             15172 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            16128 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+xgamehelper.exe                        30628 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+XboxPcAppFT.exe                         8436 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+winamp.exe                              4120 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             22172 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                              6180 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             28692 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             20668 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                              2664 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             19984 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             13512 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             25196 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             22064 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             24992 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            34720 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+steamwebhelper.exe                     21944 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+msedgewebview2.exe                      1928 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            16940 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SystemSettingsBroker.exe                5168 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            25208 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SearchApp.exe                          18156 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+NisSrv.exe                             24268 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+smartscreen.exe                        19772 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             7660 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                             7568 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            29748 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            11724 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             15276 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             30220 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+powershell.exe                         21480 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                            18724 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+notepad++.exe                          19440 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+svchost.exe                            19800 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                              3156 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             16924 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SearchProtocolHost.exe                 16100 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SearchFilterHost.exe                   29004 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             12176 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+chrome.exe                             12808 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+SearchProtocolHost.exe                 20256 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+powershell.exe                          2840 Nav pieejams / Sistēmas tiesības
+Method invocation failed because [Microsoft.Management.Infrastructure.CimInstance] does not contain a method named 'Get
+Owner'.
+At line:2 char:5
++     $owner = $_.GetOwner()
++     ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (GetOwner:String) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+
+conhost.exe                            12864 Nav pieejams / Sistēmas tiesības

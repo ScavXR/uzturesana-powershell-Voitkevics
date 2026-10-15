@@ -1,0 +1,12 @@
+Name                Id AtmiņaMB
+----                -- --------
+chrome            2684    283,2
+MsMpEng          11268    301,9
+chrome           19984    324,6
+chrome           12552    343,9
+CCleaner_service  4880    392,2
+chrome           19512    417,1
+steamwebhelper   23288    479,5
+chrome           14268      509
+chrome           28692    638,4
+Discord          27288   1017,9

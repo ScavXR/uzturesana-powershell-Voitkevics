@@ -1,0 +1,2 @@
+Get-Service laiks milisekundēs: 17.7771
+Get-CimInstance laiks milisekundēs: 272.9976

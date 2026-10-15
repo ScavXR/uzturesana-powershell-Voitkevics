@@ -1,0 +1,6 @@
+Kopsavilkums no iepriekšējiem uzdevumiem:
+1. Aktīvo procesu skaits: 339
+3. Aktīvo un apturēto servisu summa:
+   Strādā: 154, Apturēti: 182, Summa: 336
+5. Kļūdu skaits (48h): 47
+7. C: diska brīvā vieta: 1565.97 GB

@@ -1,0 +1,15 @@
+What if: Performing the operation "Start-Service" on target "ASUS Update Service (asus) (asus)".
+What if: Performing the operation "Start-Service" on target "AsusROGLSLService Download ROGLSLoader (AsusROGLSLService)".
+What if: Performing the operation "Start-Service" on target "AsusUpdateCheck (AsusUpdateCheck)".
+What if: Performing the operation "Start-Service" on target "Intel(R) Content Protection HDCP Service (cplspcon)".
+What if: Performing the operation "Start-Service" on target "Microsoft Edge Update Service (edgeupdate) (edgeupdate)".
+What if: Performing the operation "Start-Service" on target "GoogleUpdater InternalService 125.0.6407.2 (GoogleUpdaterInternalService125.0.6407.2) (GoogleUpdaterInternalService125.0.6407.2)".
+What if: Performing the operation "Start-Service" on target "Google Updater Internal Service (GoogleUpdaterInternalService157.0.8089.0) (GoogleUpdaterInternalService157.0.8089.0)".
+What if: Performing the operation "Start-Service" on target "GoogleUpdater Service 125.0.6407.2 (GoogleUpdaterService125.0.6407.2) (GoogleUpdaterService125.0.6407.2)".
+What if: Performing the operation "Start-Service" on target "Google Updater Service (GoogleUpdaterService157.0.8089.0) (GoogleUpdaterService157.0.8089.0)".
+What if: Performing the operation "Start-Service" on target "Pakalpojums Google atjauninājums (gupdate) (gupdate)".
+What if: Performing the operation "Start-Service" on target "Intel(R) HD Graphics Control Panel Service (igfxCUIService2.0.0.0)".
+What if: Performing the operation "Start-Service" on target "Intel(R) Platform License Manager Service (Intel(R) Platform License Manager Service)".
+What if: Performing the operation "Start-Service" on target "Intel(R) TPM Provisioning Service (Intel(R) TPM Provisioning Service)".
+What if: Performing the operation "Start-Service" on target "Downloaded Maps Manager (MapsBroker)".
+What if: Performing the operation "Start-Service" on target "Software Protection (sppsvc)".
