@@ -80,3 +80,9 @@ if nosacījums salīdzina brīvo vietu ar izvēlēto robežu un uzrāda brīdin�
 Measure-Command — Izmēra, cik milisekundes aizņem konkrētās komandas izpilde.   
 
 Salīdzina ātrumu starp vienkāršu servisa komandu un CIM / WMI vaicājumu
+
+9. uzdevums: Kurš lietotājs palaida procesu
+    
+    Win32_Process — Paņem visus procesus caur CIM.
+
+   GetOwner() — Mēģina noskaidrot, kurš lietotājs palaida katru procesu. 
