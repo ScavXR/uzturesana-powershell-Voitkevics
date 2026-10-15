@@ -85,4 +85,8 @@ Salīdzina ātrumu starp vienkāršu servisa komandu un CIM / WMI vaicājumu
     
     Win32_Process — Paņem visus procesus caur CIM.
 
-   GetOwner() — Mēģina noskaidrot, kurš lietotājs palaida katru procesu. 
+   GetOwner() — Mēģina noskaidrot, kurš lietotājs palaida katru procesu.
+
+10. uzdevums: Kopsavilkums
+
+    Šis skripts no jauna izsauc datus no 1., 3., 5. un 7. uzdevuma
